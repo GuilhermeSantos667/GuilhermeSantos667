@@ -1,6 +1,5 @@
 Olá, seja bem vindo, sou Guilherme Santos👋👩🏻‍💻
 
-Trazendo soluções de tecnologia para a vida das pessoas, gostou? já entre em contato😉
 
 "se consegue sonhar consegues fazer"💡
 <div align="center">
