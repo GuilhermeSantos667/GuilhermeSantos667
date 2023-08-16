@@ -2,7 +2,12 @@ Olá, seja bem vindo, sou Guilherme Santos👋👩🏻‍💻
 
 
 "se consegue sonhar consegues fazer"💡
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSantos667&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/GuilhermeSantos667">
+
+ ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeSantos667&show_icons=true&theme=dracula)
+
+</div>
 
   
   <div style="display: inline_block"><br>
